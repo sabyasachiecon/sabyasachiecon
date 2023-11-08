@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm Sabyasachi
 
-I am currently pursuing a Master's degree in economics at Ambedkar University, Delhi, with a strong foundation in economics and research. I hold a Bachelor of Science Honors degree in Economics with specializations in Development Economics and Econometrics from the Xavier Institute of Management, Bhubaneswar, where I graduated in 2022.
+I am currently pursuing a Master's degree in Economics at Ambedkar University, Delhi, with a strong foundation in economics and research. I hold a Bachelor of Science Honors degree in Economics with specializations in Development Economics and Econometrics from the Xavier Institute of Management, Bhubaneswar, where I graduated in 2022.
 
 #### 🔍 Research Interests
 - Macroeconomics
