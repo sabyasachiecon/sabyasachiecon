@@ -1,16 +1,14 @@
-### Hi there 👋
+### 👋 Hello, I'm Sabyasachi
 
-<!--
-**sabyasachiecon/sabyasachiecon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently pursuing a Master's degree in economics at Ambedkar University, Delhi, with a strong foundation in economics and research. I hold a Bachelor of Science Honors degree in Economics with specializations in Development Economics and Econometrics from the Xavier Institute of Management, Bhubaneswar, where I graduated in 2022.
 
-Here are some ideas to get you started:
+#### 🔍 Research Interests
+- Macroeconomics
+- Monetary Economics
+- Poverty Growth Inequality Triangle
+- Learning in Economic Models
+- Econometrics and Measure Theory
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📫 Get in Touch
+I welcome collaborations, discussions, and networking opportunities related to economics, econometrics, and related research areas. Feel free to reach out to me via [email](mailto:sabyasachi.chi.panda@gmail.com) .
+
